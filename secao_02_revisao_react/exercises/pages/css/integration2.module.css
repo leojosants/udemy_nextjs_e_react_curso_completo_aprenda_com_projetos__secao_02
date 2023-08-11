@@ -1,0 +1,20 @@
+#intergration2 {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.white {
+  background-color: gray;
+  color: white;
+}
